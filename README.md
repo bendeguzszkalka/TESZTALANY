@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bendegúz Szkalka
-- 👀 I’m interested in app/game development, linux and (ethical) hacking.
+- 👀 I’m interested in app/game development, linux and (ethical) hacking. I like participating in Game Jams and CTFs.
 - 🌱 I can use C#, Python, Javascript and Bash, but I am currently learning Go and C++.
 - 📫 You can reach me on LinkedIn.
 
