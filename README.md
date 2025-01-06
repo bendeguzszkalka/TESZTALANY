@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bendegúz Szkalka
-- 👀 I’m interested in game development and (ethical) hacking.
-- 🌱 I’m currently learning C#, C++, Python and the use of the linux terminal.
-- 📫 How to reach me: https://tesztalany370.itch.io
+- 👀 I’m interested in app/game development, linux and (ethical) hacking.
+- 🌱 I can use C#, Python, Javascript and Bash, but I am currently learning Go and C++.
+- 📫 You can reach me on LinkedIn.
 
 <!---
 TESZTALANY/TESZTALANY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
